@@ -73,3 +73,9 @@ print ("------------------------------------------------------------------------
 ### Hasil RUN Codingan
 
 ![Gambar 4](screenshot/ss4.png)
+
+### Flowchart
+
+![Gambar 5](flowchart/flow1.png)
+
+SELESAI
